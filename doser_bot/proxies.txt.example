@@ -1,8 +1,0 @@
-# Add your proxies here (one per line)
-# Format: type://user:pass@ip:port
-# or: type://ip:port
-
-# Examples:
-# http://user:password@192.168.1.1:8080
-# socks5://192.168.1.2:1080
-# https://proxy.example.com:3128
